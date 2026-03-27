@@ -1,4 +1,4 @@
 # About me
 
-- 🔭 I’m currently studying a bachelor in Software at Aalborg University.
+- 🔭 I am currently pursuing a Bachelor's degree in Software Engineering at Aalborg University.
   
